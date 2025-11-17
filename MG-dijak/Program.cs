@@ -10,6 +10,27 @@ namespace MG_dijak
     {
         static void Main(string[] args)
         {
+
+            /*
+           MG-díjak
+           MG 2025.11.17.
+           */
+            string fejlec = "Díjak";
+            Console.WriteLine(fejlec);
+
+            for (int i = 0; i < fejlec.Length; i++)
+            {
+                Console.Write("-");
+            }
+            Console.WriteLine();
+
+
+
+
+            Console.WriteLine();
+            Console.WriteLine("Nyomja meg az ENTER-t a kilépéshez");
+            Console.ReadLine();
+
         }
     }
 }
