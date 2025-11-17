@@ -47,7 +47,7 @@ namespace MG_dijak
                 {
                     if (dijak[i][0] == nev)
                     {
-                        Console.WriteLine($"\tév: {dijak[i][0]}");
+                        Console.WriteLine($"\tnév: {dijak[i][0]}");
                         Console.WriteLine($"\tdíj: {dijak[i][1]}");
                         Console.WriteLine($"\tév: {dijak[i][2]}");
                     }
